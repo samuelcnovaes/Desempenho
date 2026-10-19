@@ -1,0 +1,95 @@
+Contabilidade Geral
+10
+50% (5) 50% (5)
+1
+Demonstrações Contábeis
+10 de 10
+50% (5) 50% (5)
+Demonstração de Fluxo de Caixa (DFC - CPC 03, Lei 6.404, art. 188, I)
+10 de 10
+50% (5) 50% (5)
+Direito Constitucional (CF/1988 e Doutrina)
+30
+84% (25) 16% (5)
+1
+Dos Direitos e Garantias Fundamentais (arts. 5º a 17 da CF/1988)
+10 de 10
+100% (10) 0% (0)
+Dos Direitos Sociais (arts. 6º a 11 da CF/1988)
+10 de 10
+100% (10) 0% (0)
+Direitos Sociais e dos Trabalhadores (arts. 6º e 7º da CF/1988)
+10 de 10
+100% (10) 0% (0)
+Tributação e Orçamento (arts. 145 a 169 da CF/1988)
+10 de 10
+100% (10) 0% (0)
+Finanças Públicas (arts. 163 a 169 da CF/1988)
+10 de 10
+100% (10) 0% (0)
+Dos Orçamentos (Finanças Públicas, arts. 165 a 169 da CF/1988)
+10 de 10
+100% (10) 0% (0)
+Da Ordem Econômica e Financeira (arts. 170 a 192 da CF/1988)
+10 de 10
+50% (5) 50% (5)
+Princípios Gerais da Ordem Econômica (arts. 170 a 172 e 175 a 181 da CF/1988)
+10 de 10
+50% (5) 50% (5)
+Legislação Tributária Federal
+39
+88% (34) 12% (5)
+1
+Leis Complementares Federais Tributárias
+39 de 39
+88% (34) 12% (5)
+Lei Complementar nº 87/1996 - Lei Kandir
+10 de 10
+90% (9) 10% (1)
+Fato gerador e Hipóteses de Não Incidência (arts. 1º ao 3º e 12 da LC nº 87/1996)
+5 de 5
+100% (5) 0% (0)
+Substituição Tributária (arts. 7º ao 10 da LC nº 87/1996)
+2 de 2
+100% (2) 0% (0)
+Base de Cálculo (arts. 13 ao 18 da LC nº 87/1996)
+1 de 1
+100% (1) 0% (0)
+Da Não-Cumulatividade - Crédito, Estorno, Transferência, etc (arts. 19 ao 23 da LC nº 87/1996)
+1 de 1
+100% (1) 0% (0)
+Tópicos Mesclados da LC nº 87/1996
+1 de 1
+0% (0) 100% (1)
+Lei Complementar nº 116/2003 - ISSQN
+19 de 19
+85% (16) 15% (3)
+Fato Gerador e Hipóteses de Não Incidência (arts. 1º e 2º da LC nº 116/2003)
+8 de 8
+88% (7) 12% (1)
+Sujeito Passivo e Local da Operação e Prestação (arts. 3º a 6º da LC nº 116/2003)
+8 de 8
+75% (6) 25% (2)
+Alíquota, Base de Cálculo e Valor a Ser Pago (arts. 7º e 8º-A da LC nº 116/2003)
+3 de 3
+100% (3) 0% (0)
+Lei Complementar nº 123/2006 - Simples Nacional
+10 de 10
+90% (9) 10% (1)
+Dos Tributos e Contribuições (arts. 12 a 41 da LC nº 123/2006)
+1 de 1
+100% (1) 0% (0)
+Do Acesso aos Mercados (arts. 42 a 49-A da LC nº 123/2006)
+9 de 9
+89% (8) 11% (1)
+TI - Banco de Dados
+5
+60% (3) 40% (2)
+1
+Projeto e Modelagem de Dados
+5 de 5
+60% (3) 40% (2)
+Modelo Entidade-Relacionamento (MER)
+5 de 5
+60% (3) 40% (2)
+Seleção Resolvidas: 84 Acertos: 67 Erros: 17
